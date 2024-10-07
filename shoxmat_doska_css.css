@@ -1,0 +1,27 @@
+.div1 {
+    width: 810px;
+    height: 810px;
+    border: 50px solid rgb(15, 15, 15);
+}
+
+.div2 {
+    width: 800px;
+    height: 800px;
+    border: 5px solid moccasin;
+}
+
+.div3 {
+    display: flex;
+}
+
+.oq {
+    width: 100px;
+    height: 100px;
+    background-color: antiquewhite;
+}
+
+.kora {
+    width: 100px;
+    height: 100px;
+    background-color: black;
+}
